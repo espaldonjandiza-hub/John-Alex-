@@ -4,7 +4,6 @@
 (basketball player)
 
 # Description of My Self
-<details>
 *I am the person that really really love sports. I can play basketball, table tennis, sepak takraw, and volleyball. And also I love reading and analyzing. But sometimes I can't control my emotion specially when I'm angry. Until now I'm still finding my better version of my self.
 
 ## My Strength
