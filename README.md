@@ -1,26 +1,35 @@
-# **My Portfolio**
-# **Basketball player**
+# My Portfolio
+# John Alex Espaldon 
+*BSIT student 
+(basketball player)
 
-# **Description of My Self**
+# Description of My Self
+<details>
 *I am the person that really really love sports. I can play basketball, table tennis, sepak takraw, and volleyball. And also I love reading and analyzing. But sometimes I can't control my emotion specially when I'm angry. Until now I'm still finding my better version of my self.
 
-## *My Strength*
+## My Strength
+<details>
+  
 *My Family 
   
 *My Friends 
 
-*Our creator 
+*Our creator Lord God
 
 
-## *My Weaknesses*
-*Hights
+## My Weaknesses
+<details>
+  
+*I'm afraid on hights
 
 *Dark nights
 
 *And also speak to the front of many people 
 
 
-# *My Talent*
+# My Talent
+<details>
+  
 *Basketball 
 
 *Volleyball 
@@ -30,7 +39,7 @@
 *And I love Math
 
 
-# * My Social Media Account*
+#  My Social Media Account
 <details>
 
 https://www.instagram.com/iluveunwo_jan?igsh=MTUzMDh0ZWJobDVzNA==
